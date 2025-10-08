@@ -1,5 +1,4 @@
 本项目为一名2011年出生的中学生利用业余时间开发的，本人对GitHub尚未完全熟悉，如果有问题，欢迎提交 Issue 反馈。
-This project was developed by a middle school student born in 2011 during their free time. I am not yet fully familiar with GitHub. If you encounter any issues, please feel free to submit an Issue for feedback.
 
 # PiTools 多功能实用工具集(简体中文 SC)
 
