@@ -1,2 +1,28 @@
-# PiTools
-基于 Tkinter 开发的多功能实用工具集，集成了文本处理、计算器、单位转换、密码生成、日期时间工具和文本分析功能
+本项目为一名2011年出生的中学生利用业余时间开发的，本人对GitHub尚未完全熟悉，如果有问题，欢迎提交 Issue 反馈。
+This project was developed by a middle school student born in 2011 during their free time. I am not yet fully familiar with GitHub. If you encounter any issues, please feel free to submit an Issue for feedback.
+
+# PiTools 多功能实用工具集(简体中文 SC)
+
+一款基于 Python Tkinter 开发的桌面工具集，集成6大核心功能，满足日常办公和学习需求。
+
+## 🚀 核心功能
+- **文本处理**：大小写转换、文本反转、字数统计、清除多余空格
+- **计算器**：基础加减乘除、百分比计算、正负号切换
+- **单位转换**：支持长度（米/英寸）、重量（千克/磅）、温度（℃/℉）、面积换算
+- **密码生成器**：自定义长度（6-32位）和字符类型（大小写/数字/特殊符号）
+- **日期时间工具**：实时显示时间、日期推算（未来/过去天数）、日期差计算
+- **文本分析**：字符统计、邮箱/网址提取、字符类型分类
+
+## 💻 安装与使用
+1. **源码运行**：
+   - 依赖：Python 3.7+、tkinter（一般随 Python 自带）
+   - 命令：`python Eng2Bases.py`
+2. **可执行文件**：
+   - 前往 [Releases](https://github.com/Shineking-728/PiTools/releases/tag/PiTools) 下载最新版 `pitools_vX.X.X_Win_Installer_x64.exe
+  
+## 🤝 贡献指南
+欢迎提交 Issue 反馈 Bug 或建议，也可 Fork 仓库后提交 Pull Request 参与开发。 - 双击直接运行，无需安装 Python 环境
+
+# PiTools Multi-Functional Utility Toolkit (English, EN)
+
+
