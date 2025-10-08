@@ -22,7 +22,3 @@ This project was developed by a middle school student born in 2011 during their 
   
 ## 🤝 贡献指南
 欢迎提交 Issue 反馈 Bug 或建议，也可 Fork 仓库后提交 Pull Request 参与开发。 - 双击直接运行，无需安装 Python 环境
-
-# PiTools Multi-Functional Utility Toolkit (English, EN)
-
-
