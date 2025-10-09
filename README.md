@@ -15,7 +15,7 @@
 ## 💻 安装与使用
 1. **源码运行**：
    - 依赖：Python 3.7+、tkinter（一般随 Python 自带）
-   - 命令：`python Eng2Bases.py`
+   - 命令：`python pitools_vX.X.X.py`
 2. **可执行文件**：
    - 前往 [Releases](https://github.com/Shineking-728/PiTools/releases/tag/PiTools) 下载最新版 `pitools_vX.X.X_Win_Installer_x64.exe
   
